@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\jesterJohnf\C#\bookCollectionLists\bookCollectionLists\bin\Debug\bookCollectionLists.exe.config
+C:\Users\student\Desktop\jesterJohnf\C#\bookCollectionLists\bookCollectionLists\obj\Debug\bookCollectionLists.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\jesterJohnf\C#\bookCollectionLists\bookCollectionLists\bin\Debug\bookCollectionLists.exe
+C:\Users\student\Desktop\jesterJohnf\C#\bookCollectionLists\bookCollectionLists\bin\Debug\bookCollectionLists.pdb
+C:\Users\student\Desktop\jesterJohnf\C#\bookCollectionLists\bookCollectionLists\obj\Debug\bookCollectionLists.exe
+C:\Users\student\Desktop\jesterJohnf\C#\bookCollectionLists\bookCollectionLists\obj\Debug\bookCollectionLists.pdb

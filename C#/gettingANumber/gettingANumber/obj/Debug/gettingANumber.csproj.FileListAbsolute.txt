@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\jesterJohnf\C#\gettingANumber\gettingANumber\bin\Debug\gettingANumber.exe.config
+C:\Users\student\Desktop\jesterJohnf\C#\gettingANumber\gettingANumber\bin\Debug\gettingANumber.exe
+C:\Users\student\Desktop\jesterJohnf\C#\gettingANumber\gettingANumber\bin\Debug\gettingANumber.pdb
+C:\Users\student\Desktop\jesterJohnf\C#\gettingANumber\gettingANumber\obj\Debug\gettingANumber.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\jesterJohnf\C#\gettingANumber\gettingANumber\obj\Debug\gettingANumber.exe
+C:\Users\student\Desktop\jesterJohnf\C#\gettingANumber\gettingANumber\obj\Debug\gettingANumber.pdb

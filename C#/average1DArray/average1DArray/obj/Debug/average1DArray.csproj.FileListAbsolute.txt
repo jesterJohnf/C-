@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\jesterJohnf\C#\average1DArray\average1DArray\bin\Debug\average1DArray.exe.config
+C:\Users\student\Desktop\jesterJohnf\C#\average1DArray\average1DArray\bin\Debug\average1DArray.exe
+C:\Users\student\Desktop\jesterJohnf\C#\average1DArray\average1DArray\bin\Debug\average1DArray.pdb
+C:\Users\student\Desktop\jesterJohnf\C#\average1DArray\average1DArray\obj\Debug\average1DArray.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\jesterJohnf\C#\average1DArray\average1DArray\obj\Debug\average1DArray.exe
+C:\Users\student\Desktop\jesterJohnf\C#\average1DArray\average1DArray\obj\Debug\average1DArray.pdb

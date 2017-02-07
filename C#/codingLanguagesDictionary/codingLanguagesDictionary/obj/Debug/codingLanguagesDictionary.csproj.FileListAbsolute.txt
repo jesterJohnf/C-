@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\jesterJohnf\C#\codingLanguagesDictionary\codingLanguagesDictionary\bin\Debug\codingLanguagesDictionary.exe.config
+C:\Users\student\Desktop\jesterJohnf\C#\codingLanguagesDictionary\codingLanguagesDictionary\obj\Debug\codingLanguagesDictionary.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\jesterJohnf\C#\codingLanguagesDictionary\codingLanguagesDictionary\bin\Debug\codingLanguagesDictionary.exe
+C:\Users\student\Desktop\jesterJohnf\C#\codingLanguagesDictionary\codingLanguagesDictionary\bin\Debug\codingLanguagesDictionary.pdb
+C:\Users\student\Desktop\jesterJohnf\C#\codingLanguagesDictionary\codingLanguagesDictionary\obj\Debug\codingLanguagesDictionary.exe
+C:\Users\student\Desktop\jesterJohnf\C#\codingLanguagesDictionary\codingLanguagesDictionary\obj\Debug\codingLanguagesDictionary.pdb
