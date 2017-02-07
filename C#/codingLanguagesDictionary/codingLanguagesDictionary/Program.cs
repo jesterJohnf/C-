@@ -38,17 +38,38 @@ namespace codingLanguagesDictionary
 
                         // Prompting user input
                         answer = Console.ReadLine();
+                        if (codingLanguages.ContainsKey(answer)) 
                         Console.WriteLine(answer + " is in the dictionary.");
-                        break; 
+                        {
+                            Console.WriteLine(answer + "is in the dictionary.");
+                        } 
+                        else
+                        {
+                            Console.WriteLine(answer + "is not in the dictionary.");
+                        }
+                        break;
 
+                    case 'C':
+                        int totalItems = codingLanguages.Count();
+                        Console.WriteLine("There are " + totalItems + " entries in the dictionary.");
+                        break;
+
+                    case 'L':
+                        Console.WriteLine("Type the language that you want to look up:");
+                        answer = Console.ReadLine();
+                        string description;
+                        codingLanguages.TryGetValue(answer, out description);
+                        Console.WriteLine("The description for " + answer + " is " + description);
+                        break;
+
+                    default:
+                        break;
 
                 }
-            } while (response != 'X');
-
-
-
-
-
-        }
+                Console.WriteLine("Please make another selection: ");
+                response = Convert.ToChar(Console.ReadLine().ToUpper());
+            }
+            while (response != 'X'); // Exit
+       }
     }
 }
