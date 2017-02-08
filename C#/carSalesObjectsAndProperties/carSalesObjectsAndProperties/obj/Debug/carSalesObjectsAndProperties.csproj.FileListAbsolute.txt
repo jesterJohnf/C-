@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\jesterJohnf\C#\carSalesObjectsAndProperties\carSalesObjectsAndProperties\bin\Debug\carSalesObjectsAndProperties.exe.config
+C:\Users\student\Desktop\jesterJohnf\C#\carSalesObjectsAndProperties\carSalesObjectsAndProperties\bin\Debug\carSalesObjectsAndProperties.exe
+C:\Users\student\Desktop\jesterJohnf\C#\carSalesObjectsAndProperties\carSalesObjectsAndProperties\bin\Debug\carSalesObjectsAndProperties.pdb
+C:\Users\student\Desktop\jesterJohnf\C#\carSalesObjectsAndProperties\carSalesObjectsAndProperties\obj\Debug\carSalesObjectsAndProperties.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\jesterJohnf\C#\carSalesObjectsAndProperties\carSalesObjectsAndProperties\obj\Debug\carSalesObjectsAndProperties.exe
+C:\Users\student\Desktop\jesterJohnf\C#\carSalesObjectsAndProperties\carSalesObjectsAndProperties\obj\Debug\carSalesObjectsAndProperties.pdb
