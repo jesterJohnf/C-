@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\jesterJohnf\C#\arrayExceptionError\arrayExceptionError\bin\Debug\arrayExceptionError.exe.config
+C:\Users\student\Desktop\jesterJohnf\C#\arrayExceptionError\arrayExceptionError\obj\Debug\arrayExceptionError.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\jesterJohnf\C#\arrayExceptionError\arrayExceptionError\bin\Debug\arrayExceptionError.exe
+C:\Users\student\Desktop\jesterJohnf\C#\arrayExceptionError\arrayExceptionError\bin\Debug\arrayExceptionError.pdb
+C:\Users\student\Desktop\jesterJohnf\C#\arrayExceptionError\arrayExceptionError\obj\Debug\arrayExceptionError.exe
+C:\Users\student\Desktop\jesterJohnf\C#\arrayExceptionError\arrayExceptionError\obj\Debug\arrayExceptionError.pdb
