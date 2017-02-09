@@ -1,0 +1,2 @@
+C:\Users\student\Desktop\jesterJohnf\C#\carSalesInheritance\carSalesInheritance\bin\Debug\carSalesInheritance.exe.config
+C:\Users\student\Desktop\jesterJohnf\C#\carSalesInheritance\carSalesInheritance\obj\Debug\carSalesInheritance.csprojResolveAssemblyReference.cache
