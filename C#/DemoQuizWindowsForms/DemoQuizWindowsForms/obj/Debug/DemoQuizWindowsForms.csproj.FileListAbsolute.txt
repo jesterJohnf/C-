@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\jesterJohnf\C#\DemoQuizWindowsForms\DemoQuizWindowsForms\bin\Debug\DemoQuizWindowsForms.exe.config
+C:\Users\student\Desktop\jesterJohnf\C#\DemoQuizWindowsForms\DemoQuizWindowsForms\bin\Debug\DemoQuizWindowsForms.exe
+C:\Users\student\Desktop\jesterJohnf\C#\DemoQuizWindowsForms\DemoQuizWindowsForms\bin\Debug\DemoQuizWindowsForms.pdb
+C:\Users\student\Desktop\jesterJohnf\C#\DemoQuizWindowsForms\DemoQuizWindowsForms\obj\Debug\DemoQuizWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\jesterJohnf\C#\DemoQuizWindowsForms\DemoQuizWindowsForms\obj\Debug\DemoQuizWindowsForms.Form1.resources
+C:\Users\student\Desktop\jesterJohnf\C#\DemoQuizWindowsForms\DemoQuizWindowsForms\obj\Debug\DemoQuizWindowsForms.Properties.Resources.resources
+C:\Users\student\Desktop\jesterJohnf\C#\DemoQuizWindowsForms\DemoQuizWindowsForms\obj\Debug\DemoQuizWindowsForms.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\jesterJohnf\C#\DemoQuizWindowsForms\DemoQuizWindowsForms\obj\Debug\DemoQuizWindowsForms.exe
+C:\Users\student\Desktop\jesterJohnf\C#\DemoQuizWindowsForms\DemoQuizWindowsForms\obj\Debug\DemoQuizWindowsForms.pdb

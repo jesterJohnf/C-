@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\jesterJohnf\C#\averagesAssessment\averagesAssessment\bin\Debug\averagesAssessment.exe.config
+C:\Users\student\Desktop\jesterJohnf\C#\averagesAssessment\averagesAssessment\bin\Debug\averagesAssessment.exe
+C:\Users\student\Desktop\jesterJohnf\C#\averagesAssessment\averagesAssessment\bin\Debug\averagesAssessment.pdb
+C:\Users\student\Desktop\jesterJohnf\C#\averagesAssessment\averagesAssessment\obj\Debug\averagesAssessment.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\jesterJohnf\C#\averagesAssessment\averagesAssessment\obj\Debug\averagesAssessment.exe
+C:\Users\student\Desktop\jesterJohnf\C#\averagesAssessment\averagesAssessment\obj\Debug\averagesAssessment.pdb
